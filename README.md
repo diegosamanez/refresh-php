@@ -7,7 +7,7 @@ Getting Started
 ---------------
 
 ```
-$ composer require agregalel/refresh-php
+$ composer require agregalel/refresh-php:dev-main
 ```
 
 ### index.php file
