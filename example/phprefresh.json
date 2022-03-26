@@ -1,0 +1,7 @@
+{
+    "ignore": [
+        "vendor",
+        "dir_ignore",
+        "file_ignore.php"
+    ]
+}
