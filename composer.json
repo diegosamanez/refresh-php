@@ -8,7 +8,7 @@
         "name": "diego samanez",
         "email": "dmsamanez@gmail.com"
     }],
-    "minimum-stability": "stable",
+    "minimum-stability": "dev",
     "require": {
         "php": ">=5.5.0"
     },
