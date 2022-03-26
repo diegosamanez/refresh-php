@@ -19,3 +19,15 @@ use agregalel\refresh_php\RefreshPhp;
  */
 RefreshPhp::init();
 ```
+
+You can also add a phprefresh.json configuration file to ignore files and directories
+
+```json
+{
+    "ignore": [
+        "vendor",
+        "dir_ignore",
+        "file_ignore.php"
+    ]
+}
+```
