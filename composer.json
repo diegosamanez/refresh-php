@@ -8,8 +8,11 @@
         "name": "diego samanez",
         "email": "dmsamanez@gmail.com"
     }],
-    "minimum-stability": "stable",
-    "require": {},
+    "minimum-stability": "dev",
+    "prefer-stable": true,
+    "require": {
+        "php": "^7.2"
+    },
     "autoload": {
         "psr-4": {
             "agregalel\\refresh_php\\": "src/"
